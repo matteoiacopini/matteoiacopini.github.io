@@ -10,11 +10,15 @@ author_profile: true
 
 ## [STEADY](https://matteoiacopini.github.io/STEADY/)
 
-Role: Principal Investigator. Funding: EUR 176.000 from the European Commission under the Marie Skłodowska-Curie Individual Fellowship (887220).
+Principal Investigator: Matteo Iacopini
 
-Project Duration: October 2020 - September 2022
+Co-Investigators: [Siem Jan Koopman](https://sjkoopman.net) and [André Lucas](https://personal.vu.nl/a.lucas/)
 
-Other Institutions: Vrjie Universiteit Amsterdam (Co-PI: [Siem Jan Koopman](https://sjkoopman.net) and [André Lucas](https://personal.vu.nl/a.lucas/))
+Funding: EUR 176.000 from the European Commission under the Marie Skłodowska-Curie Individual Fellowship (ID 887220)
+
+Project duration: October 2020 - September 2022
+
+Host institution: Vrjie Universiteit Amsterdam
 
 
 ## Other awards
