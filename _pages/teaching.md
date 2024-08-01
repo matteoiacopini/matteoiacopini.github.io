@@ -12,7 +12,7 @@ I am currently supervising 2 Ph.D. Students:    <!-- and several Master and Bach
 
 ### Queen Mary University of London
 
-* [Michael Scoones](https://xxxxxxxx) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian models for Multivariate Count Time Series" (2024-ongoing)
+* [Michael Scoones](https://xxxxxxxx) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Analysis of Multiple Count Time Series" (2024-ongoing)
 
 * [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Luca Rossini](https://rossiniluca.github.io)) with a thesis on "Bayesian Reduced Rank Regression models" (2022-ongoing)
 
@@ -42,8 +42,8 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 
 
 #### Queen Mary University of London
-* [Computational Statistics with R](), for the Master in Mathematics (A.Y. 2023/24; 2022/23)
-* [Time Series Analysis for Business](), for the Master in Data Analytics (A.Y. 2023/24)
+* [Computational Statistics with R](https://www.qmul.ac.uk/modules/items/mth791u-computational-statistics-with-r.html), for the Master in Mathematics (A.Y. 2023/24; 2022/23)
+* [Time Series Analysis for Business](https://www.qmul.ac.uk/modules/items/mth783p-time-series-analysis-for-business.html), for the Master in Data Analytics (A.Y. 2023/24)
 
 
 #### Ca' Foscari University of Venice

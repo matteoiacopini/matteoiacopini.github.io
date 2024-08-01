@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About me"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +11,7 @@ redirect_from:
 I am a Researcher (Tenure Track) in Statistics at the Department of Economics and Finance at [LUISS](https://economiaefinanza.luiss.it) of Rome. My research interests span across Statistics and Econometrics. My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
 
 
-[CV page](https://matteoiacopini.github.io/cv)
+<!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
 [CV](files/paper1.pdf)
 ======
