@@ -6,29 +6,27 @@ permalink: /STEADY/
 author_profile: true
 ---
 
-<p align="justify">
+**ID.** 887220
 
-<b>ID.</b> 887220
-<br> <br>
+**Principal investigator.**  Matteo Iacopini
 
-<b>Principal investigator.</b>  Matteo Iacopini
-<br>
-
-<b>Supervisors:</b>
+**Supervisors:**
 * [Siem Jan Koopman](https://sjkoopman.net), Professor of Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
 * [André Lucas](https://personal.vu.nl/a.lucas/), Professor of Financial Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
-<br> <br>
 
-<b>Host institution.</b> [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
-<br> <br>
 
-<b>Funding.</b> EUR 176,000 from the European Commission (EC)
-<br> <br>
+**Host institution.** [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
 
-<b>Project duration.</b> October 2020 - September 2022
-<br> <br>
 
-<b>Summary.</b>
+**Funding.** EUR 176,000 from the European Commission (EC)
+
+
+**Project duration.** October 2020 - September 2022
+
+
+&nbsp;
+
+**Summary.**
 Modern economic analyses require new models to study increasingly fine-grained interrelations based on increasingly complex data sources. Early dynamic economic analyses have mostly been limited to only studying univariate time series, which can be represented as a single sequence (or vector) of values. Most contemporary analyses use more complicated data with both time series and cross-sectional dimensions, such as panels of key macroeconomic figures, for many countries over time. Such data can be represented as a (2-dim) matrix.
 
 Recently, more complex data structures have rapidly emerged, requiring higher dimensional storage objects. As an example, a data set consisting of a time series (1st dimension) of the exposures of banks (2nd dim) to other banks (3rd dim) in several markets (bonds, equity; 4th dim) and for different maturities (5th dim). The storage object for such high-dimensional data sets is a generalization of a matrix, called a tensor.
@@ -39,4 +37,3 @@ The **STEADY** project fills this gap by developing novel statistical methods fo
 The project has two main research directions.
 One is the development of a general class of dynamic time-series models, which merge the linear tensor time series literature and the score-driven time-varying parameter approach based on the Generalized Autoregressive Score (GAS) model. The other contribution consists in the development of a new tensor-based compression technique for many economic time series, the tensor dynamic factor model. 
 
-</p>
