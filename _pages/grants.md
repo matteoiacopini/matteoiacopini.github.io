@@ -18,7 +18,7 @@ Other Institutions: Vrjie Universiteit Amsterdam (Co-PI: [Siem Jan Koopman](http
 
 
 ## Other awards
-* Research Fellowship from Italian National for High Mathematichs - INDAM (April 2019 - March 2020)
+* Research Fellowship from Italian National for High Mathematics - INDAM (April 2019 - March 2020)
 * Research Fellowship from Ca' Foscari University of Venice (September 2017 - March 2019)
 * co-editor of the financing proposal (awarded) "Bando Label Scientifico UIF/UFI 2018" from Université Franco-Italienne (2018)
 * co-editor of the financing proposal (awarded) "Bando Visiting Professor UIF 2017" from Université Franco-Italienne (2017)
