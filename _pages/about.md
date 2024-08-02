@@ -17,7 +17,7 @@ I am a Researcher (Tenure Track) in Statistics at the Department of Economics an
 ======
 
 * <img src="images/signal.svg" width="30" height="30">
-	<font size="4" style="color:#18316F">Bayesian statistics</font><br />
+  <font size="4" style="color:#18316F">Bayesian statistics</font>
   <font size="3">hierachical models, nonparametric models</font>
 
 * <img src="images/cubes.svg" width="30" height="30">
