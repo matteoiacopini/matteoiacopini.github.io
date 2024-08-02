@@ -34,7 +34,8 @@ Submitted or in Review
 * Iacopini, M. and Rossini, L. (2023) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](). (R&R)
 
 
-<!-- Permanent Working paper -->
+&nbsp;
+
 Others
 ------
 * Bassetti, F., Casarin, R. and Iacopini, M. (2023), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_
