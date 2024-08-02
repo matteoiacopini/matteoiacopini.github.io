@@ -11,14 +11,24 @@ redirect_from:
 I am a Researcher (Tenure Track) in Statistics at the [Department of Economics and Finance](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics.
 My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:
 
+&nbsp;
+
 <img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
 : <font size="3">tensor decompositions and tensor modelling</font>
 
 <img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multivariate time series</font>
-: discrete time series, dynamic networks.
+: <font size="3">discrete time series, dynamic networks</font>
 
 <img src="images/braille.svg" width="22" height="22"> <font size="4" style="color:#18316F">Complex data</font>
-: modelling counts, discrete, and rank-ordered data
+: <font size="3">modelling counts, discrete, and rank-ordered data</font>
+
+
+&nbsp;
+
+<!-- [CV page](https://matteoiacopini.github.io/cv) -->
+
+[CV](files/CV_IacopiniMatteo.pdf)
+======
 
 
 <!-- My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
@@ -42,14 +52,6 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 :	state space models, hidden Markov models -->
 
 <!-- <font size="3"></font> -->
-
-&nbsp;
-
-<!-- [CV page](https://matteoiacopini.github.io/cv) -->
-
-[CV](files/CV_IacopiniMatteo.pdf)
-======
-
 
 <!-- Create content & metadata
 ------
