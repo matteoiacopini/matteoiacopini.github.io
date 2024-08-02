@@ -13,7 +13,7 @@ author_profile: true
 {% include base_path %}
 
 Submitted or in Review
-----
+------
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024), ["Bayesian Partial Reduced-Rank Regression"](https://arxiv.org/abs/2406.17444). _arXiv:2406.17444_ (Submitted)
 
 * Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_ (Submitted)
@@ -36,7 +36,7 @@ Submitted or in Review
 
 <!-- Permanent Working paper -->
 Others
-----
+------
 * Bassetti, F., Casarin, R. and Iacopini, M. (2023), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_
 
 * Bianchi, D., Rossini, L. and Iacopini, M. (2021) - ["Stablecoins and cryptocurrency returns: What is the role of Tether?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605451). _SSRN: 3605451_
