@@ -17,37 +17,34 @@ I am a Researcher (Tenure Track) in Statistics at the Department of Economics an
 ======
 
 * ![signal](images/signal.svg)
-<img src="images/signal.svg" width="50" height="50">
+  <img src="images/signal.svg" width="50" height="50">
 	<font size="4" style="color:#18316F">Bayesian statistics</font><br />
-  	hierachical models, nonparametric models
+  	<font size="3">hierachical models, nonparametric models</font>
 
-
-
-<ul class="feature-icons">
-  <li class="fa-signal"><font size="4" style="color:#18316F">Bayesian statistics</font><br />
-  hierachical models, nonparametric models
-  </li> <!-- fa-signal -->
-
-  <li class="fa-cubes"><font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
+* ![cubes](images/cubes.svg)
+  <img src="images/cubes.svg" width="50" height="50">
+  <font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
   <font size="3">tensor decompositions, tensor modelling in statistics</font>
-  </li>
 
-  <li class="fa-share-alt"><font size="4" style="color:#18316F">Dynamic networks</font><br />
+* ![share-alt](images/share-nodes.svg)
+  <img src="images/share-nodes.svg" width="50" height="50">
+  <font size="4" style="color:#18316F">Dynamic networks</font><br />
   <font size="3">modelling, estimation, and forecasting</font>
-  </li>
 
-  <li class="fa-area-chart"><font size="4" style="color:#18316F">Quantile regression</font><br/>
+* ![area-chart](images/chart-area.svg)
+  <img src="images/chart-area.svg" width="50" height="50">
+  <font size="4" style="color:#18316F">Quantile regression</font><br/>
   <font size="3">modelling in multiple dimensions</font>
-  </li>
 
-  <li class="fa-braille"><font size="4" style="color:#18316F">Count data</font><br/>
+* ![braille](images/braille.svg)
+  <img src="images/braille.svg" width="50" height="50">
+  <font size="4" style="color:#18316F">Count data</font><br/>
   <font size="3">univariate and multivariate modelling</font>
-  </li>
-
-  <li class="fa-line-chart"><font size="4" style="color:#18316F">Time series</font><br/>
+  
+* ![line-chart](images/chart-line.svg)
+<img src="images/chart-line.svg" width="50" height="50">
+  <font size="4" style="color:#18316F">Time series</font><br/>
   <font size="3">state space models, hidden Markov models</font>
-  </li>
-</ul>
 
 
 <!-- Create content & metadata
