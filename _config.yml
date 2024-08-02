@@ -21,12 +21,12 @@ repository               : "matteoiacopini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile19b_small2.png"
   name             : "RTT in Statistics"
   pronouns         : # example: "she/her"  
-  bio              : "Department of Economics and Finance at LUISS of Rome"
-  location         : "Rome"
-  employer         : "LUISS"
+  bio              : "Department of Economics and Finance, LUISS of Rome"
+  location         : # "Rome"
+  employer         : # "LUISS"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -203,7 +203,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publications1:
     output: true
     permalink: /:collection/:path/
   portfolio:

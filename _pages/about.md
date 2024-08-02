@@ -13,11 +13,42 @@ I am a Researcher (Tenure Track) in Statistics at the Department of Economics an
 
 <!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
-[CV](files/paper1.pdf)
+[CV](files/CV_IacopiniMatteo.pdf)
 ======
+* ![signal](signal.svg)
+<img src="signal.svg" width="50" height="50">
+	<font size="4" style="color:#18316F">Bayesian statistics</font><br />
+  	hierachical models, nonparametric models
 
 
-Create content & metadata
+
+<ul class="feature-icons">
+  <li class="fa-signal"><font size="4" style="color:#18316F">Bayesian statistics</font><br />
+  hierachical models, nonparametric models
+  </li> <!-- fa-signal -->
+
+  <li class="fa-cubes"><font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
+  <font size="3">tensor decompositions, tensor modelling in statistics</font>
+  </li>
+
+  <li class="fa-share-alt"><font size="4" style="color:#18316F">Dynamic networks</font><br />
+  <font size="3">modelling, estimation, and forecasting</font>
+  </li>
+
+  <li class="fa-area-chart"><font size="4" style="color:#18316F">Quantile regression</font><br/>
+  <font size="3">modelling in multiple dimensions</font>
+  </li>
+
+  <li class="fa-braille"><font size="4" style="color:#18316F">Count data</font><br/>
+  <font size="3">univariate and multivariate modelling</font>
+  </li>
+
+  <li class="fa-line-chart"><font size="4" style="color:#18316F">Time series</font><br/>
+  <font size="3">state space models, hidden Markov models</font>
+  </li>
+</ul>
+
+
+<!-- Create content & metadata
 ------
-
-The structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://matteoiacopini.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+The structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://matteoiacopini.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
