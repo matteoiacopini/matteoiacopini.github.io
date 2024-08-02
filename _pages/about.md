@@ -12,7 +12,7 @@ I am a Researcher (Tenure Track) in Statistics at the [Department of Economics a
 My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:
 
 <img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
-: tensor decompositions and tensor modelling
+: <font size="3">tensor decompositions and tensor modelling</font>
 
 <img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multivariate time series</font>
 : discrete time series, dynamic networks.
