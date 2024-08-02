@@ -18,9 +18,15 @@ I am a Researcher (Tenure Track) in Statistics at the [Department of Economics a
   <font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
   <font size="3">tensor decompositions, tensor modelling in statistics</font>
 
-* <img src="images/share-nodes.svg" width="30" height="30">
-  <font size="4" style="color:#18316F">Dynamic networks</font><br />
-  <font size="3">modelling, estimation, and forecasting</font>
+
+Definition List Title
+:   Definition list division.
+
+<img src="images/share-nodes.svg" width="30" height="30"> <font size="4" style="color:#18316F">Dynamic networks</font>
+:   modelling, estimation, and forecasting
+
+
+
 
 * <img src="images/chart-area.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Quantile regression</font><br/>
