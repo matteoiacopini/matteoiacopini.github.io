@@ -16,33 +16,27 @@ I am a Researcher (Tenure Track) in Statistics at the Department of Economics an
 [CV](files/CV_IacopiniMatteo.pdf)
 ======
 
-* ![signal](images/signal.svg)
-  <img src="images/signal.svg" width="35" height="35">
+* <img src="images/signal.svg" width="30" height="30">
 	<font size="4" style="color:#18316F">Bayesian statistics</font><br />
-  	<font size="3">hierachical models, nonparametric models</font>
+  <font size="3">hierachical models, nonparametric models</font>
 
-* ![cubes](images/cubes.svg)
-  <img src="images/cubes.svg" width="30" height="30">
+* <img src="images/cubes.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
   <font size="3">tensor decompositions, tensor modelling in statistics</font>
 
-* ![share-alt](images/share-nodes.svg)
-  <img src="images/share-nodes.svg" width="35" height="35">
+* <img src="images/share-nodes.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Dynamic networks</font><br />
   <font size="3">modelling, estimation, and forecasting</font>
 
-* ![area-chart](images/chart-area.svg)
-  <img src="images/chart-area.svg" width="30" height="30">
+* <img src="images/chart-area.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Quantile regression</font><br/>
   <font size="3">modelling in multiple dimensions</font>
 
-* ![braille](images/braille.svg)
-  <img src="images/braille.svg" width="35" height="35">
+* <img src="images/braille.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Count data</font><br/>
   <font size="3">univariate and multivariate modelling</font>
   
-* ![line-chart](images/chart-line.svg)
-<img src="images/chart-line.svg" width="30" height="30">
+* <img src="images/chart-line.svg" width="30" height="30">
   <font size="4" style="color:#18316F">Time series</font><br/>
   <font size="3">state space models, hidden Markov models</font>
 
