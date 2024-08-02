@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher (Tenure Track) in Statistics at the Department of Economics and Finance at [LUISS](https://economiaefinanza.luiss.it) of Rome. My research interests span across Statistics and Econometrics. My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
+I am a Researcher (Tenure Track) in Statistics at the [Department of Economics and Finance](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics. My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
 
-<img src="images/signal.svg" width="30" height="30">
-  <font size="4" style="color:#18316F">Bayesian statistics</font>
+<img src="images/signal.svg" width="30" height="30"> <font size="4" style="color:#18316F">Bayesian statistics</font>
   <font size="3">hierachical models, nonparametric models</font><br />
 
 
