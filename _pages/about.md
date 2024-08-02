@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Researcher (Tenure Track) in Statistics at the [Department of Economics and Finance](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics. My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
 
-<img src="images/signal.svg" width="30" height="30"> <font size="4" style="color:#18316F">Bayesian statistics</font>
+<img src="images/signal.svg" width="25" height="25"> <font size="4" style="color:#18316F">Bayesian statistics</font>
   <font size="3">hierachical models, nonparametric models</font><br />
 
 
-<img src="images/cubes.svg" width="30" height="30">
+<img src="images/cubes.svg" width="25" height="25">
   <font size="4" style="color:#18316F">Tensor calculus in statistics</font><br />
   <font size="3">tensor decompositions, tensor modelling in statistics</font>
 
@@ -22,21 +22,21 @@ I am a Researcher (Tenure Track) in Statistics at the [Department of Economics a
 Definition List Title
 :   Definition list division.
 
-<img src="images/share-nodes.svg" width="30" height="30"> <font size="4" style="color:#18316F">Dynamic networks</font>
+<img src="images/share-nodes.svg" width="25" height="25"> <font size="4" style="color:#18316F">Dynamic networks</font>
 :   modelling, estimation, and forecasting
 
 
 
 
-* <img src="images/chart-area.svg" width="30" height="30">
+* <img src="images/chart-area.svg" width="25" height="25">
   <font size="4" style="color:#18316F">Quantile regression</font><br/>
   <font size="3">modelling in multiple dimensions</font>
 
-* <img src="images/braille.svg" width="30" height="30">
+* <img src="images/braille.svg" width="25" height="25">
   <font size="4" style="color:#18316F">Count data</font><br/>
   <font size="3">univariate and multivariate modelling</font>
   
-* <img src="images/chart-line.svg" width="30" height="30">
+* <img src="images/chart-line.svg" width="25" height="25">
   <font size="4" style="color:#18316F">Time series</font><br/>
   <font size="3">state space models, hidden Markov models</font>
 
