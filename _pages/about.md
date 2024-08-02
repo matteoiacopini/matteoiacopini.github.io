@@ -8,17 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher (Tenure Track) in Statistics at the [Department of Economics and Finance](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics. My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
+I am a Researcher (Tenure Track) in Statistics at the [Department of Economics and Finance](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics.
+My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:
+
+<img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
+: tensor decompositions and tensor modelling
+
+<img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multivariate time series</font>
+: discrete time series, dynamic networks.
+
+<img src="images/braille.svg" width="22" height="22"> <font size="4" style="color:#18316F">Complex data</font>
+: modelling counts, discrete, and rank-ordered data
+
+
+<!-- My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
 
 <img src="images/signal.svg" width="22" height="22"> <font size="4" style="color:#18316F">Bayesian statistics</font>
 :	hierachical models, nonparametric models
-	<!-- <font size="3">hierachical models, nonparametric models</font> -->
 
 <img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Tensor calculus in statistics</font>
 :	tensor decompositions, tensor modelling in statistics
 
 <img src="images/share-nodes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Dynamic networks</font>
-:   modelling, estimation, and forecasting
+: modelling, estimation, and forecasting
 
 <img src="images/chart-area.svg" width="22" height="22"> <font size="4" style="color:#18316F">Quantile regression</font>
 :	modelling in multiple dimensions
@@ -27,8 +39,9 @@ I am a Researcher (Tenure Track) in Statistics at the [Department of Economics a
 :	univariate and multivariate modelling
   
 <img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Time series</font>
-:	state space models, hidden Markov models
+:	state space models, hidden Markov models -->
 
+<!-- <font size="3"></font> -->
 
 &nbsp;
 
