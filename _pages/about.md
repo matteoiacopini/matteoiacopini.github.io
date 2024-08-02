@@ -15,7 +15,7 @@ I am a Researcher (Tenure Track) in Statistics at the Department of Economics an
 
 [CV](files/CV_IacopiniMatteo.pdf)
 ======
-* ![signal](signal.svg)
+* ![signal](images/signal.svg)
 <img src="signal.svg" width="50" height="50">
 	<font size="4" style="color:#18316F">Bayesian statistics</font><br />
   	hierachical models, nonparametric models
