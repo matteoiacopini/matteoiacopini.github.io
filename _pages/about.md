@@ -1,4 +1,4 @@
----
+Settembre---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -25,7 +25,7 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 
 <!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
-[CV](files/CV_IacopiniMatteo.pdf)
+[CV](files/CV_Iacopini_EN.pdf)
 ======
 
 
