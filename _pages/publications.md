@@ -16,6 +16,8 @@ author_profile: true
 Peer-reviewed journals
 -----
 
+* Costola, M., Iacopini, M. and Wichers, C. (2024), "Bayesian SAR model with stochastic volatility and multiple time-varying weights", _Journal of Financial Econometrics_, (_forthcoming_)
+
 * Bonaccolto, G., Caporin, M. and Iacopini, M. (2024), ["Extreme time-varying spillovers between high carbon emission stocks, green bond and crude oil: Comment"](https://doi.org/10.1016/j.eneco.2024.107469), _Energy Economics_, 132:107469 
 
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2023), ["Bayesian mixed-frequency quantile vector autoregression: Eliciting tail risks of monthly US GDP"](https://doi.org/10.1016/j.jedc.2023.104757), _Journal of Economic Dynamics and Control_, 157:104757
