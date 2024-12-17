@@ -14,11 +14,8 @@ author_profile: true
 
 Submitted or in Review
 ------
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024), ["Bayesian Partial Reduced-Rank Regression"](https://arxiv.org/abs/2406.17444). _arXiv:2406.17444_ (Submitted)
 
 * Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_ (Submitted)
-
-* Costola, M., Iacopini, M. and Wichers, C. (2024), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://arxiv.org/abs/2310.17473). _arXiv:2310.17473_ (R&R)
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _arXiv:2306.01521_ (R&R)
 
