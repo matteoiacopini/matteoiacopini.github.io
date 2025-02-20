@@ -17,7 +17,7 @@ Submitted or in Review
 
 * Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_ (Submitted)
 
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _arXiv:2306.01521_ (R&R)
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _arXiv:2306.01521_ (Submitted)
 
 * Iacopini, M., O'Neill, E. and Rossini, L. (2024), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_ (R&R)
 
@@ -26,16 +26,16 @@ Submitted or in Review
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_ (Submitted)
 _[Previously circulated as "The Distributional Impact of Money Growth and Inflation Disaggregates: A Quantile Sensitivity Analysis"]_
 
-* Iacopini, M., Ravazzolo, F. and Rossini, L. (2024), ["Bayesian Multivariate Quantile Regression with alternative Time-varying Volatility Specifications"](https://arxiv.org/abs/2211.16121). _arXiv:2211.16121_ (R&R) 
+* Iacopini, M., Ravazzolo, F. and Rossini, L. (2024), ["Bayesian Multivariate Quantile Regression with alternative Time-varying Volatility Specifications"](https://arxiv.org/abs/2211.16121). _arXiv:2211.16121_
 <!-- [Video](https://www.youtube.com/watch?v=IsR1Fg_jSdg&t=412s) -->
 
-* Bassetti, F., Casarin, R. and Iacopini, M. (2024), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_
+* Bassetti, F., Casarin, R. and Iacopini, M. (2024), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_ (Submitted)
 
 &nbsp;
 
 Others
 ------
-* Bianchi, D., Rossini, L. and Iacopini, M. (2021) - ["Stablecoins and cryptocurrency returns: What is the role of Tether?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605451). _SSRN: 3605451_
+* Bianchi, D., Rossini, L. and Iacopini, M. (2021), ["Stablecoins and cryptocurrency returns: What is the role of Tether?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605451). _SSRN: 3605451_
 
 * Iacopini, M. and Santagiustina, C.R.M.A. (2020), ["Visualizing and comparing distributions with half-disk density strips"](https://arxiv.org/abs/2006.16063). _arXiv:2006.16063_
 <!-- [code](https://github.com/matteoiacopini/hdds) --> 
