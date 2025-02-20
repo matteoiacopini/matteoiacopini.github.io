@@ -23,7 +23,8 @@ Submitted or in Review
 
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (Submitted)
 
-* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_ (Submitted) </br> _[Previously circulated as "The Distributional Impact of Money Growth and Inflation Disaggregates: A Quantile Sensitivity Analysis"]_
+* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_ (Submitted)
+_[Previously circulated as "The Distributional Impact of Money Growth and Inflation Disaggregates: A Quantile Sensitivity Analysis"]_
 
 * Iacopini, M., Ravazzolo, F. and Rossini, L. (2024), ["Bayesian Multivariate Quantile Regression with alternative Time-varying Volatility Specifications"](https://arxiv.org/abs/2211.16121). _arXiv:2211.16121_ (R&R) 
 <!-- [Video](https://www.youtube.com/watch?v=IsR1Fg_jSdg&t=412s) -->
