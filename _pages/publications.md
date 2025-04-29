@@ -25,10 +25,11 @@ Peer-reviewed journals
 * Costola, M., Iacopini, M. and Wichers, C. (2024), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, (_forthcoming_)
 <br/>
 
-<img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
+<img src="images/cubes.svg" width="22" height="22">
 : <font size="3">tensor decompositions and tensor modelling</font>
 
-<img src="images/cubes.svg" width="18" height="18"> : [code](code/JFEC-2025-ExampleCode.zip)
+<img src="images/cubes.svg" width="18" height="18">
+: <font size="3">[code](code/JFEC-2025-ExampleCode.zip)</font>
 
 * Bonaccolto, G., Caporin, M. and Iacopini, M. (2024), ["Extreme time-varying spillovers between high carbon emission stocks, green bond and crude oil: Comment"](https://doi.org/10.1016/j.eneco.2024.107469), _Energy Economics_, 132:107469 
 

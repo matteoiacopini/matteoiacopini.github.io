@@ -26,6 +26,14 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 <!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
 [CV](files/CV_Iacopini_EN.pdf)
+
+<img src="images/cubes.svg" width="18" height="18">
+: <font size="3">[code](code/JFEC-2025-ExampleCode.zip)</font>
+
+<img src="images/cubes.svg" width="18" height="18">
+[code](code/JFEC-2025-ExampleCode.zip)
+
+: <font size="3">[code](code/JFEC-2025-ExampleCode.zip)</font>
 ======
 
 
