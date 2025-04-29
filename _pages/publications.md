@@ -23,7 +23,7 @@ Peer-reviewed journals
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian Partial Reduced-Rank Regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, (_forthcoming_)
 
 * Costola, M., Iacopini, M. and Wichers, C. (2024), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, (_forthcoming_)
-: <font size="3"> [code](code/JFEC-2025-ExampleCode.zip)
+<img src="images/cubes.svg" width="18" height="18">[code](code/JFEC-2025-ExampleCode.zip)
 
 * Bonaccolto, G., Caporin, M. and Iacopini, M. (2024), ["Extreme time-varying spillovers between high carbon emission stocks, green bond and crude oil: Comment"](https://doi.org/10.1016/j.eneco.2024.107469), _Energy Economics_, 132:107469 
 
@@ -32,12 +32,12 @@ Peer-reviewed journals
 * Costola, M. and Iacopini (2023), ["Measuring sovereign bond fragmentation in the Eurozone"](https://doi.org/10.1016/j.frl.2022.103354), _Finance Research Letters_, 51:103354
 
 * Billio, M., Casarin, R. and Iacopini, M., (2024), ["Bayesian Markov switching tensor regression for time-varying networks"](https://doi.org/10.1080/01621459.2022.2102502), _Journal of the American Statistical Association_, 119(545), 109--121
-: <font size="3">[code](code/JASA-2024-ZIL-T-MS.zip)
+<img src="images/cubes.svg" width="18" height="18">[code](code/JASA-2024-ZIL-T-MS.zip)
 
 * Billio, M., Casarin, R., Iacopini, M. and Kaufmann, S. (2023), ["Bayesian dynamic tensor regression"](https://doi.org/10.1080/07350015.2022.2032721), _Journal of Business and Economic Statistics_, 41(2):429--439
 
 * Iacopini, M., Ravazzolo, F. and Rossini, L. (2023), ["Proper scoring rules for evaluating density forecasts with asymmetric loss functions"](https://doi.org/10.1080/07350015.2022.2035229), _Journal of Business and Economic Statistics_, 41(2):482--496 
-: <font size="3">[code](code/JBES-2023-acps.zip)
+<img src="images/cubes.svg" width="18" height="18">[code](code/JBES-2023-acps.zip)
 
 * Billio, M., Casarin, R., Costola, M. and Iacopini, M. (2021), ["COVID-19 spreading in financial networks: A semiparametric matrix regression model"](https://doi.org/10.1016/j.ecosta.2021.10.003), _Econometrics and Statistics_, 29, 113--131
 
