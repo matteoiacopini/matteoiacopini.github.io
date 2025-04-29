@@ -5,17 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently supervising 2 Ph.D. Students:    <!-- and several Master and Bachelor Thesis -->
+I am currently supervising a Ph.D. Student:    <!-- and several Master and Bachelor Thesis -->
 
-<!-- ### LUISS of Rome -->
+<!-- ### Luiss University of Rome -->
 
 
 ### Queen Mary University of London
 
-* [Michael Scoones](https://xxxxxxxx) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Analysis of Multiple Count Time Series" (2024-ongoing)
+<!-- * [Michael Scoones](https://xxxxxxxx) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Analysis of Multiple Count Time Series" (2024-ongoing) -->
 
-* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Luca Rossini](https://rossiniluca.github.io)) with a thesis on "Bayesian Reduced Rank Regression models" (2022-ongoing)
-
+* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Luca Rossini](https://rossiniluca.github.io)) with a thesis on "Bayesian Reduced Rank Regression models" (2022-2025)
 
 <!-- 
 MSc students
@@ -37,8 +36,13 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 * [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialization school for the AY 2021/2022
 -->
 
+#### Luiss University of Rome
+* Statistics, for the Bachelor in Politics, Philosophy, and Economics (A.Y. 2024/25)
+* Introductory Econometrics for Management, for the PhD in Management (A.Y. 2024/25)
+
+
 #### SIdE, the Italian Econometric Association
-* [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023) SiDE Summer School taught in Venice (Y. 2024-2023-2022-2021)
+* [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023), SiDE Summer School taught in Venice (Y. 2025-2024-2023-2022-2021)
 
 
 #### Queen Mary University of London
