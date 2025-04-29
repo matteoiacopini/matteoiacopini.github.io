@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://economiaefinanza.luiss.it) at LUISS of Rome. My research interests span across Statistics and Econometrics.
+I am a Researcher (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://economiaefinanza.luiss.it) at Luiss University of Rome. My research interests span across Statistics and Econometrics.
 My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:<br/>
 
 <img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
