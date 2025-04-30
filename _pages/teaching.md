@@ -37,6 +37,9 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 -->
 
 #### Luiss University of Rome
+* Statistics, for the PhD in Economics (A.Y. 2025/26)
+* Applied Business Statistics, for the Bachelor in Business Administration (A.Y. 2025/26)
+* Applied Statistics and Econometrics, for the Bachelor in Economics and Business (A.Y. 2025/26)
 * Statistics, for the Bachelor in Politics, Philosophy, and Economics (A.Y. 2024/25)
 * Introductory Econometrics for Management, for the PhD in Management (A.Y. 2024/25)
 

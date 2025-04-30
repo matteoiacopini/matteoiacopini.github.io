@@ -15,10 +15,10 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 : <font size="3">tensor decompositions and tensor modelling</font>
 
 <img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multivariate time series</font>
-: <font size="3">discrete time series, dynamic networks</font>
+: <font size="3">real and/or discrete time series, dynamic networks (modelling and estimation)</font>
 
 <img src="images/braille.svg" width="22" height="22"> <font size="4" style="color:#18316F">Complex data</font>
-: <font size="3">modelling counts, discrete, and rank-ordered data</font>
+: <font size="3">modelling discrete data, rank-ordered data</font>
 
 
 &nbsp;

@@ -15,19 +15,19 @@ author_profile: true
 Submitted or in Review
 ------
 
-* Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_ (Submitted)
+* Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_
 
-* Iacopini, M., O'Neill, E. and Rossini, L. (2024), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_ (R&R)
+* Iacopini, M., O'Neill, E. and Rossini, L. (2024), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_
 
-* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (Submitted)
+* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_
 
-* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_ (Submitted)
+* Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_
 _[Previously circulated as "The Distributional Impact of Money Growth and Inflation Disaggregates: A Quantile Sensitivity Analysis"]_
 
 * Iacopini, M., Ravazzolo, F. and Rossini, L. (2024), ["Bayesian Multivariate Quantile Regression with alternative Time-varying Volatility Specifications"](https://arxiv.org/abs/2211.16121). _arXiv:2211.16121_
 <!-- [Video](https://www.youtube.com/watch?v=IsR1Fg_jSdg&t=412s) -->
 
-* Bassetti, F., Casarin, R. and Iacopini, M. (2024), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_ (Submitted)
+* Bassetti, F., Casarin, R. and Iacopini, M. (2024), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_
 
 &nbsp;
 
