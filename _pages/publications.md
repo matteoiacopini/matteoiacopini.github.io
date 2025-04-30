@@ -33,6 +33,7 @@ Peer-reviewed journals
 
 * Billio, M., Casarin, R. and Iacopini, M., (2024), ["Bayesian Markov switching tensor regression for time-varying networks"](https://doi.org/10.1080/01621459.2022.2102502), _Journal of the American Statistical Association_, 119(545), 109--121
 <br> <img src="../images/cubes.svg" width="18" height="18"> \[[code](../code/JASA-2024-ZIL-T-MS.zip)\]
+<br> <a href="https://github.com/matteoiacopini/ZIL-T-MS.git">code</a>
 
 * Billio, M., Casarin, R., Iacopini, M. and Kaufmann, S. (2023), ["Bayesian dynamic tensor regression"](https://doi.org/10.1080/07350015.2022.2032721), _Journal of Business and Economic Statistics_, 41(2):429--439
 
