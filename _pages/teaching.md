@@ -36,7 +36,7 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 * [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialization school for the AY 2021/2022
 -->
 
-#### Luiss University of Rome
+### Luiss University of Rome
 * Statistics, for the PhD in Economics (A.Y. 2025/26)
 * Applied Business Statistics, for the Bachelor in Business Administration (A.Y. 2025/26)
 * Applied Statistics and Econometrics, for the Bachelor in Economics and Business (A.Y. 2025/26)
@@ -44,16 +44,16 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 * Introductory Econometrics for Management, for the PhD in Management (A.Y. 2024/25)
 
 
-#### SIdE, the Italian Econometric Association
+### SIdE, the Italian Econometric Association
 * [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023), SiDE Summer School taught in Venice (Y. 2025-2024-2023-2022-2021)
 
 
-#### Queen Mary University of London
+### Queen Mary University of London
 * [Computational Statistics with R](https://www.qmul.ac.uk/modules/items/mth791u-computational-statistics-with-r.html), for the Master in Mathematics (A.Y. 2023/24; 2022/23)
 * [Time Series Analysis for Business](https://www.qmul.ac.uk/modules/items/mth783p-time-series-analysis-for-business.html), for the Master in Data Analytics (A.Y. 2023/24)
 
 
-#### Ca' Foscari University of Venice
+### Ca' Foscari University of Venice
 * Mathematics pre-course, Master course (A.Y. 2019/20; 2018/19)
 * Optimization (Tutor), Master and Ph.D. course (A.Y. 2018/19; 2017/18; 2015/16)
 * Introdution to Trigonometry. Undergraduate course (A.Y. 2017/18)
