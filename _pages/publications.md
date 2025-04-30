@@ -50,6 +50,7 @@ Peer-reviewed journals
 * Costola, M., Iacopini, M. and Santagiustina, C.R.M.A. (2020), ["Google search volumes and the financial markets during the COVID-19 outbreak"](https://doi.org/10.1016/j.frl.2020.101884), _Finance Research Letters_, 42:101884
 
 * Casarin, R., Iacopini, M., Molina, G., ter Horst, E., Espinasa, R., Sucre, C. and Rigobon, R. (2020), ["Multilayer Network Analysis of Oil Linkages"](https://doi.org/10.1093/ectj/utaa003), _The Econometrics Journal_, 23(2):269--29
+<br> <img src="../images/cubes.svg" width="18" height="18"> \[[code](../code/EJ-2020-BGVAR.zip)\]
 
 
 &nbsp;
