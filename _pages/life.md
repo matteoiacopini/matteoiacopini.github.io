@@ -21,20 +21,15 @@ Its main activities include health and social care, emergency response, disaster
 
 
 
-### Blood donation (AVIS) <img src="../images/AVIS-logo.png" width="18" height="18">
+### Blood donation (AVIS) <img src="../images/AVIS-logo.png" width="20" height="20">
 
 The Association of Voluntary Italian Blood Donors ([AVIS](https://www.avis.it)) is a non-profit Italian organisation that promotes and organises voluntary, anonymous, and unpaid blood donations. Its main objectives are to ensure a sufficient supply of safe blood and blood components for the national healthcare system, raise public awareness about the importance of regular blood donation, and support scientific research and education in transfusion medicine.
 
-<img style="display: block; margin: auto;" src="../images/AVIS-logo.png" width="38" height="38">
-
-
-
-
 
 <!-- <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'> -->
-<div class="warning" style='background-color:#EDF2F7; color:#1A2067;'>
+<div class="warning">
 <p style='padding:0.0em; margin-left:0.0em; display: inline-block;'>
-<img src="../images/AVIS-logo.png" style="zoom:120%;  float:right; padding:3.0em"/>
+<img src="../images/AVIS-logo.png" style="zoom:80%;  float:right; padding:2.0em"/>
 The Association of Voluntary Italian Blood Donors ([AVIS](https://www.avis.it)) is a non-profit Italian organisation that promotes and organises voluntary, anonymous, and unpaid blood donations. Its main objectives are to ensure a sufficient supply of safe blood and blood components for the national healthcare system, raise public awareness about the importance of regular blood donation, and support scientific research and education in transfusion medicine.<br>
 </p>
 </div>
