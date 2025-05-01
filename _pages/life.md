@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 
+<!--
+> "_The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others_"
+-->
+
+
+<div align="center">
+	<div style="width:600px; color:#C70039">
+	"<i>The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others</i>" DeAnn Hollis
+	</div>
+</div>
+
+&nbsp;
+
 Besides statistical life, I am an active volunteer for the following associations:
 
 
@@ -19,6 +32,10 @@ The Italian Red Cross ([CRI](https://cri.it)) is the national society of Italy. 
 The Italian Red Cross ([CRI](https://cri.it) - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement ([IFRC](https://www.ifrc.org)), the world's largest humanitarian network.
 Its main activities include health and social care, emergency response, disaster relief, first aid training, and support for vulnerable populations, both in Italy and abroad.
 
+* "[A Memory from Solferino](https://volunteeringredcross.org/en/recurso/a-memory-of-solferino-henry-dunant/)", a book by Henry Dunant (founder of the Red Cross and first Nobel Peace Prize)
+
+
+&nbsp;
 
 
 ### Blood donation (AVIS)
