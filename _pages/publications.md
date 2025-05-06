@@ -17,6 +17,7 @@ Peer-reviewed journals
 -----
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regression"](https://arxiv.org/abs/2306.01521), _Statistics and Computing_, (_forthcoming_)
+<!-- https://doi.org/10.1007/s11222-025-10629-3 -->
 
 * Iacopini, M. and Rossini, L. (2025), ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, (_forthcoming_)
 
