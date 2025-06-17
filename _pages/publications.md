@@ -22,7 +22,7 @@ Peer-reviewed journals
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian Partial Reduced-Rank Regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, (_forthcoming_)
 
-* Costola, M., Iacopini, M. and Wichers, C. (2025), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, 23(3), nbae035
+* Costola, M., Iacopini, M. and Wichers, C. (2025), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, 23(3):273-335
 <br> <img src="../images/cubes.svg" width="18" height="18"> \[[code](../code/JFEC-2025-ExampleCode.zip)\]
 
 * Bonaccolto, G., Caporin, M. and Iacopini, M. (2024), ["Extreme time-varying spillovers between high carbon emission stocks, green bond and crude oil: Comment"](https://doi.org/10.1016/j.eneco.2024.107469), _Energy Economics_, 132:107469 
