@@ -29,6 +29,9 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 ======
 
 
+
+<!-- "Sometimes classical statistics gives up. Bayes never gives up...so we’re under more responsibility to check our models" Prof. Andrew Gelman -->
+
 <!-- My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
 
 <img src="images/signal.svg" width="22" height="22"> <font size="4" style="color:#18316F">Bayesian statistics</font>
