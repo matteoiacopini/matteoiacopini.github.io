@@ -23,6 +23,10 @@ My research is centred on the development of <ins>Bayesian methods</ins> on thes
 
 &nbsp;
 
+I am a member of the [ESOBE](https://esobe.org) Board since 2025.
+
+&nbsp;
+
 <!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
 [CV](files/CV_Iacopini_EN.pdf)

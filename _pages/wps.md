@@ -15,8 +15,6 @@ author_profile: true
 Submitted or in Review
 ------
 
-* Iacopini, M., Krisztin, T. and Piribauer, P. (2024), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557). _arXiv:2310.19557_
-
 * Iacopini, M., O'Neill, E. and Rossini, L. (2024), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_
 
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_
