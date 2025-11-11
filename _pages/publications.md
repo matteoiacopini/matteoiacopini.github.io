@@ -16,7 +16,7 @@ author_profile: true
 Peer-reviewed journals
 -----
 
-* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557), _Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
+* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regression"](https://doi.org/10.1007/s11222-025-10629-3), _Statistics and Computing_, 35(4):110
 
