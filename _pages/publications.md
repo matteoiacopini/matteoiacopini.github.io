@@ -16,13 +16,13 @@ author_profile: true
 Peer-reviewed journals
 -----
 
-* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["A Bayesian Markov-switching SAR model for time-varying cross-price spillovers"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
+* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["Analysing Dynamic Cross-Price Dependencies with a Markov-Switching Spatial Autoregressive Model"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
 
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regression"](https://doi.org/10.1007/s11222-025-10629-3), _Statistics and Computing_, 35(4):110
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty quantification in Bayesian reduced-rank sparse regression"](https://doi.org/10.1007/s11222-025-10629-3), _Statistics and Computing_, 35(4):110
 
-* Iacopini, M. and Rossini, L. (2025), ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, (_forthcoming_)
+* Iacopini, M. and Rossini, L. (2025), ["Bayesian semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, (_forthcoming_)
 
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian Partial Reduced-Rank Regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, (_forthcoming_)
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian partial reduced-rank regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, (_forthcoming_)
 
 * Costola, M., Iacopini, M. and Wichers, C. (2025), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, 23(3):273-335
 <br> <img src="../images/cubes.svg" width="18" height="18"> \[[code](../code/JFEC-2025-ExampleCode.zip)\]
