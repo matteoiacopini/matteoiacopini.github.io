@@ -16,6 +16,8 @@ author_profile: true
 Peer-reviewed journals
 -----
 
+* Iacopini, M., O'Neill, E. and Rossini, L. (2026), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _Journal of Business & Economic Statistics_, (_forthcoming_), _arXiv:2308.10231_
+
 * Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["Analysing Dynamic Cross-Price Dependencies with a Markov-Switching Spatial Autoregressive Model"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty quantification in Bayesian reduced-rank sparse regression"](https://doi.org/10.1007/s11222-025-10629-3), _Statistics and Computing_, 35(4):110
