@@ -44,6 +44,10 @@ I taught different courses at Undergraduate, Master, and Ph.D. level at Italian 
 * Introductory Econometrics for Management, for the PhD in Management (A.Y. 2024/25)
 
 
+### Universität Klagenfurt
+* Advanced Bayesian Econometrics, for MSc and PhD in Statistics (A.Y. 2025/26)
+
+
 ### SIdE, the Italian Econometric Association
 * [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023), SiDE Summer School taught in Venice (Y. 2025-2024-2023-2022-2021)
 

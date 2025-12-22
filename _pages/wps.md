@@ -15,6 +15,8 @@ author_profile: true
 Submitted or in Review
 ------
 
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian Markov-switching partial reduced-rank regression"](https://arxiv.org/abs/2512.17471). _arXiv:2512.17471_
+
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_
 
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024), ["Money Growth and Inflation: A Quantile Sensitivity Approach"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_
