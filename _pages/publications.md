@@ -16,7 +16,7 @@ author_profile: true
 Peer-reviewed journals
 -----
 
-* Iacopini, M., O'Neill, E. and Rossini, L. (2026), ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _Journal of Business & Economic Statistics_, (_forthcoming_), _arXiv:2308.10231_
+* Iacopini, M., O'Neill, E. and Rossini, L. (2026), ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business & Economic Statistics_, (_forthcoming_)
 
 * Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["Analysing Dynamic Cross-Price Dependencies with a Markov-Switching Spatial Autoregressive Model"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
 
