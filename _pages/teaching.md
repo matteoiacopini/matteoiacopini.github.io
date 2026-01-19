@@ -43,15 +43,15 @@ I taught different courses at the Undergraduate, Master, and PhD level at Italia
 -->
 
 ### Luiss University of Rome
-* Advanced Econometrics, for the PhD in Economics (A.Y. 2025/26)
-* Data Analysis for Business, for the Bachelor in Management and Computer Science (A.Y. 2025/26)
-* Applied Statistics and Econometrics, for the Bachelor in Economics and Business (A.Y. 2025/26)
-* Statistics, for the Bachelor in Politics, Philosophy, and Economics (A.Y. 2024/25)
-* Introductory Econometrics for Management, for the PhD in Management (A.Y. 2024/25)
+* _Advanced Econometrics_, for the PhD in Economics (A.Y. 2025/26)
+* _Data Analysis for Business_, for the Bachelor in Management and Artificial Intelligence (A.Y. 2025/26)
+* _Applied Statistics and Econometrics_, for the Bachelor in Economics and Business (A.Y. 2025/26)
+* _Statistics_, for the Bachelor in Politics, Philosophy, and Economics (A.Y. 2024/25)
+* _Introductory Econometrics for Management_, for the PhD in Management (A.Y. 2024/25)
 
 
 ### Universität Klagenfurt
-* Advanced Bayesian Econometrics, for MSc and PhD in Statistics (A.Y. 2025/26)
+* _Advanced Bayesian Econometrics_, for MSc and PhD in Statistics (A.Y. 2025/26)
 
 
 ### SIdE, the Italian Econometric Association
@@ -59,14 +59,14 @@ I taught different courses at the Undergraduate, Master, and PhD level at Italia
 
 
 ### Queen Mary University of London
-* Computational Statistics with R, for the Master in Mathematics (A.Y. 2023/24; 2022/23)
-* Time Series Analysis for Business, for the Master in Data Analytics (A.Y. 2023/24)
+* _Computational Statistics with R_, for the Master in Mathematics (A.Y. 2023/24; 2022/23)
+* _Time Series Analysis for Business_, for the Master in Data Analytics (A.Y. 2023/24)
 
 
 ### Ca' Foscari University of Venice
-* Mathematics pre-course, Master course (A.Y. 2019/20; 2018/19)
+* _Mathematics pre-course_, Master course (A.Y. 2019/20; 2018/19)
 * Optimization (Tutor), Master and PhD course (A.Y. 2018/19; 2017/18; 2015/16)
-* Introduction to Trigonometry. Undergraduate course (A.Y. 2017/18)
+* _Introduction to Trigonometry_, Undergraduate course (A.Y. 2017/18)
 * Mathematics for Economics (Teaching Assistant), Undergraduate course (A.Y. 2017/18)
 * Statistics (Teaching Assistant), Undergraduate course (A.Y. 2017/18)
 * Econometrics (Teaching Assistant), Undergraduate course (A.Y. 2015/16)
