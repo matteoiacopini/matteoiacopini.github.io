@@ -12,6 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 Submitted or in Review
 ------
 
@@ -27,7 +28,9 @@ _[Previously circulated as "The Distributional Impact of Money Growth and Inflat
 
 * Bassetti, F., Casarin, R. and Iacopini, M. (2024), ["A spatiotemporal gamma shot noise Cox process"](https://arxiv.org/abs/2308.08481). _arXiv:2308.08481_
 
+
 &nbsp;
+
 
 Others
 ------
