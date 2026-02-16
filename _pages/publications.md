@@ -24,7 +24,7 @@ Peer-reviewed journals
 
 * Iacopini, M. and Rossini, L. (2025), ["Bayesian semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, (_forthcoming_)
 
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian partial reduced-rank regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, (_forthcoming_)
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian partial reduced-rank regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, 34(4):1344–1355
 
 * Costola, M., Iacopini, M. and Wichers, C. (2025), ["Bayesian SAR model with stochastic volatility and multiple time-varying weights"](https://doi.org/10.1093/jjfinec/nbae035), _Journal of Financial Econometrics_, 23(3):273-335
 <br> <img src="../images/cubes.svg" width="18" height="18"> \[[code](../code/JFEC-2025-ExampleCode.zip)\]
