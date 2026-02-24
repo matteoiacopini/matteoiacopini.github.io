@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://aidata.luiss.it) at Luiss University of Rome. My research interests focus on methodological and computational Statistics.
-My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:<br/>
+I am an Assistant Professor (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://aidata.luiss.it) at Luiss University of Rome.
+My research focuses on methodological and computational statistics. I am concerned with the development of novel statistical methods motivated by data-driven problems, where existing methods are inadequate, or no methodology exists for data analysis.
+In prticular, I am interested in the development of <ins>Bayesian methods</ins> for the analysis of complex data, including:
+<!-- multidimensional data, count data, statistical network analysis, and statistical modelling for applications in economics and social sciences. -->
+<!-- My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:<br/> -->
 
 <img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Multidimensional data (i.e., tensors)</font>
 : <font size="3">tensor decompositions and tensor modelling</font>
