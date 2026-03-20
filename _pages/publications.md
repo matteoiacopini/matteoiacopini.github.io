@@ -18,11 +18,11 @@ Peer-reviewed journals
 
 * Iacopini, M., O'Neill, E. and Rossini, L. (2026), ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business & Economic Statistics_, (_forthcoming_)
 
-* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["Analysing Dynamic Cross-Price Dependencies with a Markov-Switching Spatial Autoregressive Model"](https://arxiv.org/abs/2310.19557), _The Annals of Applied Statistics_, (_forthcoming_), _arXiv:2310.19557_
+* Iacopini, M., Krisztin, T. and Piribauer, P. (2025), ["Analysing Dynamic Cross-Price Dependencies with a Markov-Switching Spatial Autoregressive Model"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-1/Analysing-dynamic-cross-price-dependencies-with-a-Markov-switching-spatial/10.1214/25-AOAS2105.short), _The Annals of Applied Statistics_, 20(1):110--130
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Uncertainty quantification in Bayesian reduced-rank sparse regression"](https://doi.org/10.1007/s11222-025-10629-3), _Statistics and Computing_, 35(4):110
 
-* Iacopini, M. and Rossini, L. (2025), ["Bayesian semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, (_forthcoming_)
+* Iacopini, M. and Rossini, L. (2025), ["Bayesian semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://doi.org/10.1177/1471082X251326360), _Statistical Modelling_, 26(2):184-203
 
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A.Y. (2025), ["Bayesian partial reduced-rank regression"](https://doi.org/10.1080/10618600.2024.2446357), _Journal of Computational and Graphical Statistics_, 34(4):1344–1355
 
