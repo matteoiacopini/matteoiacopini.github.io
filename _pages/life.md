@@ -23,7 +23,7 @@ author_profile: true
 Besides statistical life, I am an active volunteer for the following associations:
 
 
-### Italian Red Cross (CRI)
+### <span style="color: #ed1b2e; font-size: 20px;">&#10010;</span> &#128657; - Italian Red Cross (CRI) 
 
 <!--
 The International Federation of Red Cross and Red Crescent Societies ([IFRC](https://www.ifrc.org)) is the world's largest humanitarian network.
@@ -41,7 +41,7 @@ Its main activities include health and social care, emergency response, disaster
 &nbsp;
 
 
-### Blood donation (AVIS)
+### &#129656; - Blood donation (AVIS) 
 <!-- <img src="../images/AVIS-logo.png" width="20" height="20"> -->
 
 <!-- I am a blood donor associated with AVIS. -->
