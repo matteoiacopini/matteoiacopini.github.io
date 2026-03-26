@@ -43,9 +43,9 @@ I taught different courses at the Undergraduate, Master, and PhD level at Italia
 -->
 
 ### Luiss University of Rome
-* _Advanced Econometrics_, for the PhD in Economics (A.Y. 2025/26)
+* _Advanced Econometrics_, for the PhD in Economics (A.Y. 2026/27; 2025/26)
 * _Data Analysis for Business_, for the Bachelor in Management and Artificial Intelligence (A.Y. 2025/26)
-* _Applied Statistics and Econometrics_, for the Bachelor in Economics and Business (A.Y. 2025/26)
+* _Applied Statistics and Econometrics_, for the Bachelor in Economics and Business (A.Y. 2026/27; 2025/26)
 * _Statistics_, for the Bachelor in Politics, Philosophy, and Economics (A.Y. 2024/25)
 * _Introductory Econometrics for Management_, for the PhD in Management (A.Y. 2024/25)
 
