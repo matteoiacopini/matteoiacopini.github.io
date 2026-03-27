@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://aidata.luiss.it) at Luiss University of Rome.
 My research focuses on methodological and computational statistics. I am concerned with the development of novel statistical methods motivated by data-driven problems, where existing methods are inadequate, or no methodology exists for data analysis.
-In prticular, I am interested in the development of <ins>Bayesian methods</ins> for the analysis of complex data, including:
+In particular, I am interested in the development of <ins>Bayesian methods</ins> for the analysis of complex data, including:
 <!-- multidimensional data, count data, statistical network analysis, and statistical modelling for applications in economics and social sciences. -->
 <!-- My research is centred on the development of <ins>Bayesian methods</ins> on these core topics:<br/> -->
 
@@ -38,28 +38,6 @@ I am a member of the [ESOBE](https://esobe.org) Board since 2025.
 
 
 <!-- "Sometimes classical statistics gives up. Bayes never gives up...so we’re under more responsibility to check our models" Prof. Andrew Gelman -->
-
-<!-- My research is centred on the development of Bayesian methods on two core topics: (i) complex and multidimensional data (i.e., tensors), and (ii) multivariate time series data, including discrete time series and dynamic networks.
-
-<img src="images/signal.svg" width="22" height="22"> <font size="4" style="color:#18316F">Bayesian statistics</font>
-:	hierachical models, nonparametric models
-
-<img src="images/cubes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Tensor calculus in statistics</font>
-:	tensor decompositions, tensor modelling in statistics
-
-<img src="images/share-nodes.svg" width="22" height="22"> <font size="4" style="color:#18316F">Dynamic networks</font>
-: modelling, estimation, and forecasting
-
-<img src="images/chart-area.svg" width="22" height="22"> <font size="4" style="color:#18316F">Quantile regression</font>
-:	modelling in multiple dimensions
-
-<img src="images/braille.svg" width="22" height="22"> <font size="4" style="color:#18316F">Count data</font>
-:	univariate and multivariate modelling
-  
-<img src="images/chart-line.svg" width="22" height="22"> <font size="4" style="color:#18316F">Time series</font>
-:	state space models, hidden Markov models -->
-
-<!-- <font size="3"></font> -->
 
 <!-- Create content & metadata
 ------
