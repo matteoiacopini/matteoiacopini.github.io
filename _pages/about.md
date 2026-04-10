@@ -35,9 +35,15 @@ I am a member of the [ESOBE](https://esobe.org) Board since 2025.
 [CV](files/CV_Iacopini_EN.pdf)
 ======
 
+<!-- A statistical podcast: [Stats+Stories](https://statsandstories.net) -->
 
 
 <!-- "Sometimes classical statistics gives up. Bayes never gives up...so we’re under more responsibility to check our models" Prof. Andrew Gelman -->
+
+
+
+
+
 
 <!-- Create content & metadata
 ------
