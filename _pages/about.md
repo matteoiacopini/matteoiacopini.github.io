@@ -23,6 +23,8 @@ In particular, I am interested in the development of <ins>Bayesian methods</ins>
 <img src="images/braille.svg" width="22" height="22"> <font size="4" style="color:#18316F">Complex data</font>
 : <font size="3">modelling discrete data, rank-ordered data</font>
 
+<img src="images/computing.svg" width="22" height="22"> <font size="4" style="color:#18316F">Statistical computing</font>
+: <font size="3">Markov chain Monte Carlo (MCMC) methods, high-dimensional inference, shrinkage estimation</font>
 
 &nbsp;
 
