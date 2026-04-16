@@ -34,7 +34,7 @@ I am a member of the [ESOBE](https://esobe.org) Board since 2025.
 
 <!-- [CV page](https://matteoiacopini.github.io/cv) -->
 
-[CV](files/CV_Iacopini_EN.pdf)
+Updated [CV](files/CV_Iacopini_EN.pdf)
 ======
 
 <!-- A statistical podcast: [Stats+Stories](https://statsandstories.net) -->
