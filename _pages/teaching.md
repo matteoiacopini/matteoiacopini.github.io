@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Post-Doctoral and Ph.D. Supervision"
+title: "Ph.D. Supervision"
 permalink: /teaching/
 author_profile: true
 ---
