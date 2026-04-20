@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am an Assistant Professor (Tenure Track) in Statistics at the [Department of AI, Data and Decision Sciences](https://aidata.luiss.it) at Luiss University of Rome.
+I am a member of the [ESOBE](https://esobe.org) Board since 2025.
+
 My research focuses on methodological and computational statistics. I am concerned with the development of novel statistical methods motivated by data-driven problems, where existing methods are inadequate, or no methodology exists for data analysis.
 In particular, I am interested in the development of <ins>Bayesian methods</ins> for the analysis of complex data, including:
 <!-- multidimensional data, count data, statistical network analysis, and statistical modelling for applications in economics and social sciences. -->
@@ -28,25 +30,23 @@ In particular, I am interested in the development of <ins>Bayesian methods</ins>
 
 &nbsp;
 
-I am a member of the [ESOBE](https://esobe.org) Board since 2025.
+Updated [CV](files/CV_Iacopini_EN.pdf)
+-----
+
+More about me [here](https://matteoiacopini.github.io/life/)
 
 &nbsp;
 
-<!-- [CV page](https://matteoiacopini.github.io/cv) -->
+<div align="center">
+  <div style="width:600px;">
+  <h3>&#128213; <b>New book Coming soon!!</b></h3>
+  <p>More details [here](https://matteoiacopini.github.io/life/)</p>
+  </div>
+</div>
 
-Updated [CV](files/CV_Iacopini_EN.pdf)
-======
+&nbsp;
 
 <!-- A statistical podcast: [Stats+Stories](https://statsandstories.net) -->
 
-
 <!-- "Sometimes classical statistics gives up. Bayes never gives up...so we’re under more responsibility to check our models" Prof. Andrew Gelman -->
 
-
-
-
-
-
-<!-- Create content & metadata
-------
-The structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://matteoiacopini.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->

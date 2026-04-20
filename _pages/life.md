@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "NonStat Life"
+title: "Volunteering"
 permalink: /life/
 author_profile: true
 ---
 
 
-<!--
+<!-- NonStat Life
 > "_The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others_"
 -->
 
@@ -14,7 +14,8 @@ author_profile: true
 
 <div align="center">
 	<div style="width:600px; color:#C70039">
-	"<i>The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others</i>" DeAnn Hollis
+	"<i>The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others</i>"
+	</br> DeAnn Hollis
 	</div>
 </div>
 
@@ -37,6 +38,16 @@ Its main activities include health and social care, emergency response, disaster
 
 * "[A Memory from Solferino](https://volunteeringredcross.org/en/recurso/a-memory-of-solferino-henry-dunant/)", a book by Henry Dunant (founder of the Red Cross and first Nobel Peace Prize)
 
+&nbsp;
+
+<div align="center">
+	<div style="width:600px;">
+	<h3>&#128213; <b>New book Coming soon!!</b></h3>
+	I'm writing a book about the situations and feelings of a volunteer in the ambulance service, based on my personal experience. It will be out (hopefully) by the end of summer 2026...stay tuned!
+	</div>
+</div>
+
+&nbsp;
 
 &nbsp;
 
@@ -44,7 +55,7 @@ Its main activities include health and social care, emergency response, disaster
 ### &#129656; - Blood donation (AVIS) 
 <!-- <img src="../images/AVIS-logo.png" width="20" height="20"> -->
 
-<!-- I am a blood donor associated with AVIS. -->
+I am a blood donor associated with AVIS.
 
 The Association of Voluntary Italian Blood Donors ([AVIS](https://www.avis.it)) is a non-profit Italian organisation that promotes and organises voluntary, anonymous, and unpaid blood donations. Its main objectives are to ensure a sufficient supply of safe blood and blood components for the national healthcare system, raise public awareness about the importance of regular blood donation, and support scientific research and education in transfusion medicine.
 
