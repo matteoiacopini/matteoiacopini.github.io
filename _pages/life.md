@@ -15,7 +15,7 @@ author_profile: true
 <div align="center">
 	<div style="width:600px; color:#C70039">
 	"<i>The heart of a volunteer is never measured in size, but by the depth of the commitment to make a difference in the lives of others</i>"
-	</br> DeAnn Hollis
+	<br> DeAnn Hollis
 	</div>
 </div>
 
