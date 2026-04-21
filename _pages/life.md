@@ -26,7 +26,7 @@ Besides statistical life, I am an active volunteer for the following association
 
 ### <span style="color: #ed1b2e; font-size: 20px;">&#10010;</span> &#128657; - Italian Red Cross (CRI)
 
-<p><img src="../images/ttssa.jpg" style="float:right;width:100px;height:170px;">
+<p><img src="../images/ttssa.jpg" style="float:right;width:100px;height:180px;">
 
 I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.</br>
 
