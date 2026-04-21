@@ -28,13 +28,13 @@ Besides statistical life, I am an active volunteer for the following association
 
 I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.
 
-<img src="imgages/CRI2021.jpg" style="width:100px;height:100px;">
+<img src="images/CRI2021.jpg" style="width:100px;height:100px;">
 
-<p><img src="imgages/CRI2021.jpg" style="float:right;width:100px;height:100px;">
+<p><img src="images/CRI2021.jpg" style="float:right;width:100px;height:100px;">
 The Italian Red Cross (<a href="https://cri.it">CRI</a> - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement (<a href="https://www.ifrc.org">IFRC</a>), the world's largest humanitarian network.
 Its main activities include health and social care, emergency response, disaster relief, first aid training, and support for vulnerable populations, both in Italy and abroad.</p>
 
-<p><img src="imgages/CRI2021.jpg" style="float:left;width:30px;height:30px;"> aaaa</p>
+<p><img src="images/CRI2021.jpg" style="float:left;width:30px;height:30px;"> aaaa</p>
 
 * "[_A Memory from Solferino_](https://volunteeringredcross.org/en/recurso/a-memory-of-solferino-henry-dunant/)", a book by Henry Dunant (founder of the Red Cross and first Nobel Peace Prize)
 
