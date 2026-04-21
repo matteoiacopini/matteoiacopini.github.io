@@ -24,16 +24,11 @@ author_profile: true
 Besides statistical life, I am an active volunteer for the following associations:
 
 
-### <span style="color: #ed1b2e; font-size: 20px;">&#10010;</span> &#128657; - Italian Red Cross (CRI) 
-
-<!--
-The International Federation of Red Cross and Red Crescent Societies ([IFRC](https://www.ifrc.org)) is the world's largest humanitarian network.
-The Italian Red Cross ([CRI](https://cri.it)) is the national society of Italy. It is engaged in various activities to support the population in health, social, migration, and emergency situations.
--->
+### <span style="color: #ed1b2e; font-size: 20px;">&#10010;</span> &#128657; - Italian Red Cross (CRI)
 
 I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.
 
-<p><img src="imgages/CRI2021.jpg" alt="CRI image" style="float:right;width:100px;height:100px;">
+<p><img src="../imgages/CRI2021.jpg" alt="CRI image" style="float:right;width:100px;height:100px;">
 The Italian Red Cross (<a href="https://cri.it">CRI</a> - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement (<a href="https://www.ifrc.org">IFRC</a>), the world's largest humanitarian network.
 Its main activities include health and social care, emergency response, disaster relief, first aid training, and support for vulnerable populations, both in Italy and abroad.
 
