@@ -39,8 +39,8 @@ More about me [here](https://matteoiacopini.github.io/life/)
 
 <div align="center">
   <div style="width:600px;">
-  <h3>&#128213; <b>New book Coming soon!!</b></h3>
-  <p>More details <a href="https://matteoiacopini.github.io/life/">here</a></p>
+  <h3>&#128213; <b>New (non-stats) book coming soon!!</b></h3>
+  <p>More details <a href="https://matteoiacopini.github.io/book/">here</a></p>
   </div>
 </div>
 

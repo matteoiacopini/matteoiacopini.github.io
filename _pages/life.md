@@ -39,8 +39,9 @@ Its main activities include health and social care, emergency response, disaster
 
 <div align="center">
 	<div style="width:600px;">
-	<h3>&#128213; <b>New book Coming soon!!</b></h3>
-	I'm writing a book about the situations and feelings of a volunteer in the ambulance service, based on my personal experience. It will be out (hopefully) by the end of summer 2026...stay tuned!
+	<h3>&#128213; <b>New book coming soon!!</b></h3>
+	I'm writing a book about the feelings of a volunteer in the ambulance service.
+	More info <a href="https://matteoiacopini.github.io/book/">here</a>.
 	</div>
 </div>
 
