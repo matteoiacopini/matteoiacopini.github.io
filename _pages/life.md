@@ -33,10 +33,11 @@ The Italian Red Cross ([CRI](https://cri.it)) is the national society of Italy. 
 
 I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.
 
-The Italian Red Cross ([CRI](https://cri.it) - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement ([IFRC](https://www.ifrc.org)), the world's largest humanitarian network.
+<p><img src="imgages/CRI2021.jpg" alt="CRI image" style="float:right;width:100px;height:100px;">
+The Italian Red Cross (<a href="https://cri.it">CRI</a> - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement (<a href="https://www.ifrc.org">IFRC</a>), the world's largest humanitarian network.
 Its main activities include health and social care, emergency response, disaster relief, first aid training, and support for vulnerable populations, both in Italy and abroad.
 
-* "[A Memory from Solferino](https://volunteeringredcross.org/en/recurso/a-memory-of-solferino-henry-dunant/)", a book by Henry Dunant (founder of the Red Cross and first Nobel Peace Prize)
+* "[_A Memory from Solferino_](https://volunteeringredcross.org/en/recurso/a-memory-of-solferino-henry-dunant/)", a book by Henry Dunant (founder of the Red Cross and first Nobel Peace Prize)
 
 &nbsp;
 
@@ -46,6 +47,7 @@ Its main activities include health and social care, emergency response, disaster
 	I'm writing a book about the situations and feelings of a volunteer in the ambulance service, based on my personal experience. It will be out (hopefully) by the end of summer 2026...stay tuned!
 	</div>
 </div>
+
 
 &nbsp;
 
