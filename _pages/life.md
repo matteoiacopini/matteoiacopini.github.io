@@ -28,7 +28,7 @@ Besides statistical life, I am an active volunteer for the following association
 
 <p><img src="../images/ttssa.jpg" style="float:right;width:100px;height:180px;">
 
-I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.</br>
+I volunteer as a Rescuer and Ambulance driver at the Italian Red Cross.<br>
 
 The Italian Red Cross (<a href="https://cri.it">CRI</a> - Croce Rossa Italiana) is a humanitarian organisation that provides assistance and protection in times of war, natural disasters, and other emergencies. It operates under the principles of the International Red Cross and Red Crescent Movement (<a href="https://www.ifrc.org">IFRC</a>), the world's largest humanitarian network.
 Its main activities include health and social care, emergency response, disaster relief, first aid training, and support for vulnerable populations, both in Italy and abroad.</p>
