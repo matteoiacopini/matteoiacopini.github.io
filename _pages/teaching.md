@@ -1,18 +1,22 @@
 ---
 layout: archive
-title: "Ph.D. Supervision"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-<!-- I am currently supervising a PhD. Student and several Master's and Bachelor theses -->
 
-<!-- ### Luiss University of Rome -->
 
+I believe teaching goes far beyond lecturing. Whatever the level and topic, teaching is certainly grounded in transferring scientific knowledge, but also includes donate my personal time and passion (or, at least, trying to do so), and, maybe most of all, making my best effort to allow students express their abilities and capabilities at the best.
+It's more a journey to make based on a strong commitment, than a task to accompish.
+
+<br>
+
+
+## Superivsion
+--------
 
 Past PhD students I supervised:
-
-<!-- ### Queen Mary University of London -->
 
 * [Maria Fernanda Pintado Serrano](https://sites.google.com/view/mariafpintado/home) (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Luca Rossini](https://rossiniluca.github.io)) with a thesis on "Bayesian Reduced Rank Regression models" (2022-2025). Currently at CUNEF University in Madrid.
 
@@ -33,14 +37,8 @@ MSc students
 ## Teaching
 --------
 
-I taught different courses at the Undergraduate, Master, and PhD level at Italian and UK Universities:
+I taught different courses at the Bachelor, Master, and PhD level at Italian and UK Universities:
 
-<!-- 
-#### University of Milan
-* [Bayesian Analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Master's Data Science for Economics (DSE) from AY 2021/2022 to Present
-* [Business Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Bachelor's Economics and Management from AY 2020/2021 to Present
-* [Probability and Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/probability-and-statistics) at the Bachelor's Economics: behavior, data and policy from AY 2024/2025 to Present
--->
 
 ### Luiss University of Rome
 * _Advanced Econometrics_, for the PhD in Economics (A.Y. 2026/27; 2025/26)
@@ -54,7 +52,7 @@ I taught different courses at the Undergraduate, Master, and PhD level at Italia
 * _Advanced Bayesian Econometrics_, for MSc and PhD in Statistics (A.Y. 2025/26)
 
 
-### SIdE, the Italian Econometric Association
+### SIdE, the Italian Econometric Society
 * [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023), SiDE Summer School taught in Venice (Y. 2025-2024-2023-2022-2021)
 
 
