@@ -22,8 +22,8 @@ It will be out in Italian by the end of summer 2026...stay tuned!
 
 &nbsp;
 
-**Preview (Italian)** [here](files/preview.pdf)
-[CV](files/CV_Iacopini_EN.pdf)
+**Preview (Italian)** [here](../files/preview.pdf)
+[CV](../files/CV_Iacopini_EN.pdf)
 
 
 <!-- <div align="center">
