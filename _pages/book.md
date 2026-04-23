@@ -22,7 +22,7 @@ It will be out in Italian by the end of summer 2026...stay tuned!
 
 &nbsp;
 
-**Preview** [here](files/sample_book.pdf)
+**Preview (Italian)**  [here](files/preview.pdf)
 
 
 
