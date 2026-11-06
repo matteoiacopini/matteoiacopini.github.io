@@ -11,10 +11,13 @@ author_profile: true
 ## Research grants
 
 ### DEFEND
+_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_<br>
 Italian Ministry of University and Research (MUR) · PRIN 2026 · **€1,199,708**
 
 **Co-Principal Investigator** · Matteo Iacopini  
 **Principal Investigator** · Enzo D’Innocenzo
+**Host institution** · Luiss University (local unit)
+**Project duration** · 2027-2028  
 
 ---
 
@@ -50,10 +53,11 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
       <tr>
         <td><strong>DEFEND</strong></td>
         <td>
-          <strong>Co-PI</strong> · Matteo Iacopini
-          <span style="display: block; margin-top: 0.25em;">
+          <strong>Co-PI</strong> · Matteo Iacopini<br>
+          <strong>PI</strong> · Enzo D’Innocenzo
+          <!-- <span style="display: block; margin-top: 0.25em;">
             <strong>PI</strong> · Enzo D’Innocenzo
-          </span>
+          </span> -->
         </td>
         <td>
           Italian Ministry of University and Research (MUR)<br>
@@ -62,7 +66,7 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
         <td>Luiss University<br><br>
         2027-2028
         </td>
-        <td style="text-align: right;">€1,199,708</td>
+        <td style="text-align: right;">€ 1,199,708</td>
       </tr>
       <tr>
         <td>
@@ -83,39 +87,12 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
           Vrije Universiteit Amsterdam<br>
           October 2020–September 2022
         </td>
-        <td style="text-align: right;">€176,000</td>
+        <td style="text-align: right;">€ 176,000</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<!--
-## DEFEND
-Dynamic Econometric Foundations for Extremes, Networks, and Dependence
-
-Principal Investigator: Enzo D'Innocenzo
-
-Co-Principal Investigator: Matteo Iacopini
-
-Funding: EUR 1.199.708 from the Italian Ministry of University and Research (MUR) under the PRIN 2026 programme
-
-&nbsp;
-
-
-## [STEADY](https://matteoiacopini.github.io/STEADY/)
-
-Principal Investigator: Matteo Iacopini
-
-Co-Investigators: [Siem Jan Koopman](https://sjkoopman.net) and [André Lucas](https://personal.vu.nl/a.lucas/)
-
-Funding: EUR 176.000 from the European Commission under the Marie Skłodowska-Curie Individual Fellowship (ID 887220)
-
-Project duration: October 2020 - September 2022
-
-Host institution: Vrije Universiteit Amsterdam
-
-&nbsp;
--->
 
 
 ## Research fellowships

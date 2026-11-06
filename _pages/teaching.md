@@ -45,8 +45,8 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 #### PhD
 - _Frontiers in Statistical Sciences_ · PhD in Data Science · 2026/27
 - _Bayesian Learning for Complex Data and Dynamic Systems_ · PhD in Data Science · 2026/27
-- _Advanced Time Series_ · PhD in Economics · 2026/27
-- **Advanced Econometrics** · PhD in Economics · 2026/27, 2025/26
+- <p class="uppercase">Advanced Time Series</p> · PhD in Economics · 2026/27
+- <p class="uppercase">Advanced Econometrics</p> · PhD in Economics · 2026/27, 2025/26
 - **Introductory Econometrics for Management** · PhD in Management · 2024/25
 
 #### Undergraduate
