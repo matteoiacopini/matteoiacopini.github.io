@@ -32,26 +32,11 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
 &nbsp;
 
 
-<!-- DEFEND title: Dynamic Econometric Foundations for Extremes, Networks, and Dependence -->
-
-<div style="overflow-x: auto;" role="region" aria-label="Research grant funding register" tabindex="0" markdown="1">
-
-| Project | Investigators | Funder and programme | Host and duration | Award |
-| --- | --- | --- | --- | ---: |
-| **DEFEND** | **Co-PI** · Matteo Iacopini<br><br>**PI** · Enzo D’Innocenzo | Italian Ministry of University and Research (MUR)<br>PRIN 2026 | Luiss University<br><br> 2027-2028 | € 1,199,708 |
-| **[STEADY](https://matteoiacopini.github.io/STEADY/)** | **PI** · Matteo Iacopini<br><br>**Co-Investigators** · [Siem Jan Koopman](https://sjkoopman.net) and [André Lucas](https://personal.vu.nl/a.lucas/) | European Commission<br>Marie Skłodowska-Curie Individual Fellowship<br>**Grant ID** · 887220 | Vrije Universiteit Amsterdam<br><br>October 2020–September 2022 | € 176,000 |
-
-</div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-
 <div style="overflow-x: auto;"
      role="region"
      aria-label="Research grant funding register"
      tabindex="0">
-  <table>
+  <table id="grants-table">
     <thead>
       <tr>
         <th scope="col">Project</th>
@@ -74,7 +59,9 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
           Italian Ministry of University and Research (MUR)<br>
           PRIN 2026
         </td>
-        <td>—</td>
+        <td>Luiss University<br><br>
+        2027-2028
+        </td>
         <td style="text-align: right;">€1,199,708</td>
       </tr>
       <tr>

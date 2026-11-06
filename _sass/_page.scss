@@ -409,3 +409,12 @@
   display: block;
   margin-top: 0.25em;
 }
+
+#grants-table {
+  font-size: 1em;
+}
+
+#grants-table th,
+#grants-table td {
+  font-size: inherit;
+}

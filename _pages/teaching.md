@@ -29,7 +29,6 @@ MSc students
 * Koert Remijn, Mees Tierolff, Simon Donker van Heel, Casper Wichers – Vrije Universiteit Amsterdam (2021)
 -->
 
-<hr>
 
 &nbsp;
 
@@ -44,15 +43,15 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 ### Luiss University of Rome
 
 #### PhD
-- **Frontiers in Statistical Sciences** · PhD in Data Science · 2026/27
-- **Bayesian Learning for Complex Data and Dynamic Systems** · PhD in Data Science · 2026/27
-- **Advanced Time Series** · PhD in Economics · 2026/27
+- _Frontiers in Statistical Sciences_ · PhD in Data Science · 2026/27
+- _Bayesian Learning for Complex Data and Dynamic Systems_ · PhD in Data Science · 2026/27
+- _Advanced Time Series_ · PhD in Economics · 2026/27
 - **Advanced Econometrics** · PhD in Economics · 2026/27, 2025/26
 - **Introductory Econometrics for Management** · PhD in Management · 2024/25
 
 #### Undergraduate
-- **Applied Statistics and Econometrics** · Bachelor in Economics and Business · 2026/27, 2025/26
-- **Data Analysis for Business** · Bachelor in Business Administration · 2026/27
+- _Applied Statistics and Econometrics_ · Bachelor in Economics and Business · 2026/27, 2025/26
+- _Data Analysis for Business_ · Bachelor in Business Administration · 2026/27
 - **Data Analysis for Business** · Bachelor in Management and Artificial Intelligence · 2025/26
 - **Statistics** · Bachelor in Politics, Philosophy, and Economics · 2024/25
 
