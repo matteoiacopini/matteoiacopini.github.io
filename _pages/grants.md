@@ -11,18 +11,18 @@ author_profile: true
 ## Research grants
 
 ### DEFEND
-_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_<br>
-Italian Ministry of University and Research (MUR) · PRIN 2026 · **€1,199,708**
+(_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_)<br><br>
+Italian Ministry of University and Research (MUR) · PRIN 2026 · **€ 1,199,708**
 
-**Co-Principal Investigator** · Matteo Iacopini  
-**Principal Investigator** · Enzo D’Innocenzo
-**Host institution** · Luiss University (local unit)
+**Co-Principal Investigator** · Matteo Iacopini   
+**Principal Investigator** · Enzo D’Innocenzo  
+**Host institution** · Luiss University (local unit)  
 **Project duration** · 2027-2028  
 
 ---
 
 ### [STEADY](https://matteoiacopini.github.io/STEADY/)
-European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176,000**
+European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 176,000**
 
 **Principal Investigator** · Matteo Iacopini  
 **Co-Investigators** · [Siem Jan Koopman](https://sjkoopman.net) and [André Lucas](https://personal.vu.nl/a.lucas/)  
@@ -63,7 +63,7 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€176
           Italian Ministry of University and Research (MUR)<br>
           PRIN 2026
         </td>
-        <td>Luiss University<br><br>
+        <td>Luiss University<br>
         2027-2028
         </td>
         <td style="text-align: right;">€ 1,199,708</td>
