@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am an Assistant professor (tenure track) in Statistics at the [Department of AI, Data and Decision Sciences](https://aidata.luiss.it) at Luiss university of Rome.
-I am a member of the [ESOBE](https://esobe.org) Board since 2025.
+I am a Board member [ESOBE](https://esobe.org) since 2025.
+<!-- I am a Board member of [SISBayes](https://sisbayes.github.io/sisbayes/index.html) (the Bayesian group within the Italian Statistical Society - SIS) for the period 2027-2030. -->
+<!-- SISBayes is the Bayesian group within the Italian Statistical Society (SIS). -->
 
 My research focuses on methodological and computational statistics. I am concerned with the development of novel statistical methods motivated by data-driven problems, where existing methods are inadequate, or no methodology exists for data analysis.
 In particular, I am interested in the development of <ins>Bayesian methods</ins> for the analysis of complex data, including:
