@@ -50,30 +50,30 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 - <u>Advanced Econometrics</u> · PhD in Economics · 2026/27, 2025/26
 - <u>Introductory Econometrics for Management</u> · PhD in Management · 2024/25
 
-#### Undergraduate
-- **Applied Statistics and Econometrics** · Bachelor in Economics and Business · 2026/27, 2025/26
-- **Data Analysis for Business** · Bachelor in Business Administration · 2026/27
-- **Data Analysis for Business** · Bachelor in Management and Artificial Intelligence · 2025/26
-- **Statistics** · Bachelor in Politics, Philosophy, and Economics · 2024/25
+UNDERGRADUATE <!-- Undergraduate -->
+- <u>Applied Statistics and Econometrics</u> · Bachelor in Economics and Business · 2026/27, 2025/26
+- <u>Data Analysis for Business</u> · Bachelor in Business Administration · 2026/27
+- <u>Data Analysis for Business</u> · Bachelor in Management and Artificial Intelligence · 2025/26
+- <u>Statistics</u> · Bachelor in Politics, Philosophy, and Economics · 2024/25
 
 ### Universität Klagenfurt
-- **Advanced Bayesian Econometrics** · Master’s and PhD in Statistics · 2025/26
+- <u>Advanced Bayesian Econometrics</u> · Master’s and PhD in Statistics · 2025/26
 
 ### Queen Mary University of London
-- **Computational Statistics with R** · Master’s in Mathematics · 2023/24, 2022/23
-- **Time Series Analysis for Business** · Master’s in Data Analytics · 2023/24
+- <u>Computational Statistics with R</u> · Master’s in Mathematics · 2023/24, 2022/23
+- <u>Time Series Analysis for Business</u> · Master’s in Data Analytics · 2023/24
 
 ### Ca’ Foscari University of Venice
-- **Mathematics basics** · Master’s course · 2019/20, 2018/19
-- **Introduction to trigonometry** · Undergraduate course · 2017/18
-- **Optimization** (Teaching Assistant) · Master’s and PhD course · 2018/19, 2017/18, 2015/16
-- **Mathematics for economics** (Teaching Assistant) · Undergraduate course · 2017/18
-- **Statistics** (Teaching Assistant) · Undergraduate course · 2017/18
-- **Econometrics** (Teaching Assistant) · Undergraduate course · 2015/16
+- <u>Mathematics basics</u> · Master’s · 2019/20, 2018/19
+- <u>Introduction to trigonometry</u> · Bachelor · 2017/18
+- <u>Optimization</u> (Teaching Assistant) · Master’s and PhD · 2018/19, 2017/18, 2015/16
+- <u>Mathematics for economics</u> (Teaching Assistant) · Bachelor · 2017/18
+- <u>Statistics</u> (Teaching Assistant) · Bachelor · 2017/18
+- <u>Econometrics</u> (Teaching Assistant) · Bachelor · 2015/16
 
 
 ### Summer schools
-**Network Econometrics** · SIdE Summer School, Venice · 2021–2026 · [2026 course page](https://www.side-iea.it/events/courses/network-econometrics-2026)
+<u>Network Econometrics</u> · SIdE Summer School, Venice · 2021–2026 · [2026 course page](https://www.side-iea.it/events/courses/network-econometrics-2026)
 
 
 

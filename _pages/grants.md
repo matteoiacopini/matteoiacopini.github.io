@@ -10,8 +10,8 @@ author_profile: true
 
 ## Research grants
 
-### DEFEND
-(_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_)<br><br>
+### DEFEND (_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_)
+<!-- (_Dynamic Econometric Foundations for Extremes, Networks, and Dependence_)<br><br> -->
 Italian Ministry of University and Research (MUR) · PRIN 2026 · **€ 1,199,708**
 
 **Co-Principal Investigator** · Matteo Iacopini   
@@ -21,7 +21,8 @@ Italian Ministry of University and Research (MUR) · PRIN 2026 · **€ 1,199,70
 
 ---
 
-### [STEADY](https://matteoiacopini.github.io/STEADY/)
+### [STEADY](https://matteoiacopini.github.io/STEADY/) (_Score-driven TEnsor Autoregressive DYnamical models_)
+<!-- (_Score-driven TEnsor Autoregressive DYnamical models_)<br><br> -->
 European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 176,000**
 
 **Principal Investigator** · Matteo Iacopini  
@@ -42,10 +43,10 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
   <table id="grants-table">
 	<colgroup>
        <col span="1" style="width: 20%;">
-	   <col span="1" style="width: 18%;">
-	   <col span="1" style="width: 32%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 11%;">
+	   <col span="1" style="width: 22%;">
+	   <col span="1" style="width: 26%;">
+       <col span="1" style="width: 17%;">
+       <col span="1" style="width: 13%;">
     </colgroup>
     <thead>
       <tr>
