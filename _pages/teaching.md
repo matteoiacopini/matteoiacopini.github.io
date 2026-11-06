@@ -34,6 +34,7 @@ MSc students
 
 
 
+
 ## Teaching
 --------
 
@@ -43,15 +44,15 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 ### Luiss University of Rome
 
 #### PhD
-- _Frontiers in Statistical Sciences_ · PhD in Data Science · 2026/27
-- _Bayesian Learning for Complex Data and Dynamic Systems_ · PhD in Data Science · 2026/27
-- <p text-transform: uppercase;>Advanced Time Series</p> · PhD in Economics · 2026/27
-- <p text-transform: uppercase;>Advanced Econometrics</p> · PhD in Economics · 2026/27, 2025/26
-- **Introductory Econometrics for Management** · PhD in Management · 2024/25
+- <u>Frontiers in Statistical Sciences</u> · PhD in Data Science · 2026/27
+- <u>Bayesian Learning for Complex Data and Dynamic Systems</u> · PhD in Data Science · 2026/27
+- <u>Advanced Time Series</u> · PhD in Economics · 2026/27
+- <u>Advanced Econometrics</u> · PhD in Economics · 2026/27, 2025/26
+- <u>Introductory Econometrics for Management</u> · PhD in Management · 2024/25
 
 #### Undergraduate
-- _Applied Statistics and Econometrics_ · Bachelor in Economics and Business · 2026/27, 2025/26
-- _Data Analysis for Business_ · Bachelor in Business Administration · 2026/27
+- **Applied Statistics and Econometrics** · Bachelor in Economics and Business · 2026/27, 2025/26
+- **Data Analysis for Business** · Bachelor in Business Administration · 2026/27
 - **Data Analysis for Business** · Bachelor in Management and Artificial Intelligence · 2025/26
 - **Statistics** · Bachelor in Politics, Philosophy, and Economics · 2024/25
 
@@ -71,7 +72,7 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 - **Econometrics** (Teaching Assistant) · Undergraduate course · 2015/16
 
 
-## Summer school
+### Summer schools
 **Network Econometrics** · SIdE Summer School, Venice · 2021–2026 · [2026 course page](https://www.side-iea.it/events/courses/network-econometrics-2026)
 
 

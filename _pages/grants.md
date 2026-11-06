@@ -40,23 +40,32 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
      aria-label="Research grant funding register"
      tabindex="0">
   <table id="grants-table">
+	<colgroup>
+       <col span="1" style="width: 20%;">
+	   <col span="1" style="width: 18%;">
+	   <col span="1" style="width: 32%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 11%;">
+    </colgroup>
     <thead>
       <tr>
         <th scope="col">Project</th>
         <th scope="col">Investigators</th>
         <th scope="col">Funder and programme</th>
         <th scope="col">Host and duration</th>
-        <th scope="col" style="text-align: right;">Award</th>
+        <th scope="col">Award</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>DEFEND</strong></td>
+        <td><b>DEFEND</b>
+		<br><i>Dynamic Econometric Foundations for Extremes, Networks, and Dependence</i>
+		</td>
         <td>
-          <strong>Co-PI</strong> · Matteo Iacopini<br>
-          <strong>PI</strong> · Enzo D’Innocenzo
+          <b>Co-PI</b> · Matteo Iacopini<br>
+          <b>PI</b> · Enzo D’Innocenzo
           <!-- <span style="display: block; margin-top: 0.25em;">
-            <strong>PI</strong> · Enzo D’Innocenzo
+            <b>PI</b> · Enzo D’Innocenzo
           </span> -->
         </td>
         <td>
@@ -68,20 +77,24 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
         </td>
         <td style="text-align: right;">€ 1,199,708</td>
       </tr>
+	<!-- 
+		new row
+	 -->
       <tr>
         <td>
-          <strong><a href="https://matteoiacopini.github.io/STEADY/">STEADY</a></strong>
+          <b><a href="https://matteoiacopini.github.io/STEADY/">STEADY</a></b>
+		<br><i>Score-driven TEnsor Autoregressive DYnamical models</i>
         </td>
         <td>
-          <strong>PI</strong> · Matteo Iacopini<br>
-          <strong>Co-Investigators</strong> ·
+          <b>PI</b> · Matteo Iacopini<br>
+          <b>Co-Investigators</b> ·
           <a href="https://sjkoopman.net">Siem Jan Koopman</a> and
           <a href="https://personal.vu.nl/a.lucas/">André Lucas</a>
         </td>
         <td>
           European Commission<br>
           Marie Skłodowska-Curie Individual Fellowship<br>
-          <strong>Grant ID</strong> · 887220
+          <b>Grant ID</b> · 887220
         </td>
         <td>
           Vrije Universiteit Amsterdam<br>
