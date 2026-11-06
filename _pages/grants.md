@@ -42,11 +42,11 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
      tabindex="0">
   <table id="grants-table">
 	<colgroup>
-       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 23%;">
 	   <col span="1" style="width: 22%;">
 	   <col span="1" style="width: 26%;">
        <col span="1" style="width: 17%;">
-       <col span="1" style="width: 13%;">
+       <col span="1" style="width: 12%;">
     </colgroup>
     <thead>
       <tr>

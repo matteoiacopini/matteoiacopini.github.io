@@ -50,7 +50,8 @@ I taught different courses at the Bachelor, Master, and PhD levels at Italian an
 - <u>Advanced Econometrics</u> · PhD in Economics · 2026/27, 2025/26
 - <u>Introductory Econometrics for Management</u> · PhD in Management · 2024/25
 
-UNDERGRADUATE <!-- Undergraduate -->
+<!-- UNDERGRADUATE --> 
+#### Undergraduate
 - <u>Applied Statistics and Econometrics</u> · Bachelor in Economics and Business · 2026/27, 2025/26
 - <u>Data Analysis for Business</u> · Bachelor in Business Administration · 2026/27
 - <u>Data Analysis for Business</u> · Bachelor in Management and Artificial Intelligence · 2025/26
