@@ -31,11 +31,8 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
 **Project duration** · October 2020–September 2022  
 **Grant ID** · 887220
 
-&nbsp;
-&nbsp;
-&nbsp;
 
-
+<!--
 <div style="overflow-x: auto;"
      role="region"
      aria-label="Research grant funding register"
@@ -65,9 +62,6 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
         <td>
           <b>Co-PI</b> · Matteo Iacopini<br>
           <b>PI</b> · Enzo D’Innocenzo
-          <!-- <span style="display: block; margin-top: 0.25em;">
-            <b>PI</b> · Enzo D’Innocenzo
-          </span> -->
         </td>
         <td>
           Italian Ministry of University and Research (MUR)<br>
@@ -78,9 +72,6 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
         </td>
         <td style="text-align: right;">€ 1,199,708</td>
       </tr>
-	<!-- 
-		new row
-	 -->
       <tr>
         <td>
           <b><a href="https://matteoiacopini.github.io/STEADY/">STEADY</a></b>
@@ -106,8 +97,11 @@ European Commission · Marie Skłodowska-Curie Individual Fellowship · **€ 17
     </tbody>
   </table>
 </div>
+-->
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Research fellowships
 - **Istituto Nazionale di Alta Matematica (INdAM)** · Research fellowship · April 2019–March 2020
